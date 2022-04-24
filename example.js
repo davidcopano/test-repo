@@ -1,1 +1,1 @@
-godfujhkfjfh
+var foo = bar;
